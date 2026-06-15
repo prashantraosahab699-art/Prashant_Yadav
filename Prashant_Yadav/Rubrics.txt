@@ -1,0 +1,79 @@
+1. The website includes a Home Page.
+
+2. The website includes a Games Page.
+
+3. The website includes a Tournament Page.
+
+4. The website includes a Leaderboard Page.
+
+5. The website includes a User Profile Page.
+
+6. The website includes a Login Page.
+
+7. The website includes a Registration Page.
+
+8. The Home Page contains a hero section.
+
+9. The Home Page contains a featured games section.
+
+10. The Home Page contains a tournament highlights section.
+
+11. The Home Page contains a top player showcase section.
+
+12. The Games Page displays game information cards.
+
+13. The Games Page includes a search input that filters displayed games based on user-entered text.
+
+14. The Tournament Page displays tournament listings.
+
+15. Each tournament listing displays a registration status indicator such as Open, Closed, or Full.
+
+16. Each tournament listing displays prize pool information.
+
+17. The Leaderboard Page displays player rankings.
+
+18. The Leaderboard Page displays player scores.
+
+19. The User Profile Page displays the user's username or display name.
+
+20. The User Profile Page displays match history.
+
+21. The User Profile Page displays player statistics.
+
+22. The Login Page contains username or email and password input fields.
+
+23. The Registration Page contains a user registration form.
+
+24. The login and registration forms prevent submission when required fields are left empty.
+
+25. Navigation between all primary pages functions correctly.
+
+26. The website uses a dark gaming-themed visual design.
+
+27. The website uses the accent colour #F59E0B.
+
+28. The website uses a background colour consistent with #0F172A.
+
+29. The Games Page or Tournament Page displays content inside visually separated rectangular content cards.
+
+30. The website layout is responsive on desktop devices.
+
+31. The website layout is responsive on tablet devices.
+
+32. The website layout is responsive on mobile devices.
+
+33. Mobile navigation is usable on supported mobile devices.
+
+34. Search functionality returns filtered game results based on user input.
+
+35. All website pages load without rendering errors.
+
+36. No broken internal navigation links are present.
+
+37. The submission includes HTML source files.
+
+38. The submission includes CSS source files.
+
+39. The submission includes JavaScript source files.
+
+40. Screenshots are provided for all required website pages.
